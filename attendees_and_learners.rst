@@ -1,4 +1,6 @@
-####################
+ddddox
+
+x####################
 Attendees & learners
 ####################
 
@@ -359,6 +361,7 @@ I followed the tutorial online
 * Pooja Gadige - <poojagadige@gmail.com> - pgadige
 * Jason Gardner
 * Ana
+* Marcel C
 * Dade Murphy
 * Leticia Ulloa
 * La Chilindrina
