@@ -4,7 +4,7 @@ Don't be afraid to commit
 
 A hands-on workshop for Python/Django developers who would like to contribute
 more to the projects they use, but need more grounding in some of the tools
-required.
+required..//////////////////////////////////////////kkkk
 
 What's in it for you
 ====================
